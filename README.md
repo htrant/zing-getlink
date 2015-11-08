@@ -3,7 +3,7 @@
 - MVC model in PHP
 ### Example
   - Input: http://mp3.zing.vn/bai-hat/Say-You-Do-Tien-Tien/ZW70EIUE.html
-  - Returned song's url: http://mp3.zing.vn/xml/load-song/MjAxNS8wNC8yNS8xLzYvMTY3ZmM1ZDYyNzE2NmU3NTVlNzQ1ZTlmNTk0MWY0MGUubXAzfDEz
+  - Returned song's url
 
 
 ### Version
