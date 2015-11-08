@@ -8,7 +8,7 @@ class ErrorController extends Controller {
 
     public function __construct() {
         parent::__construct();
-        echo __FILE__;
+        echo __FILE__; //debugging
     }
     
     public function index() {

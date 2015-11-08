@@ -9,5 +9,4 @@ $loader->register();
 use Aleladen\Lib\Bootstrap;
 
 $bootstrap = new Bootstrap();
-//var_dump($bootstrap);
 $bootstrap->init();
